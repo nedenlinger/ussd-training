@@ -22,7 +22,7 @@
 		"express": "^4.16.3",
 		"jsonfile": "^5.0.0",
 		"lodash": "^4.17.10",
-		"moment": "^2.23.0",
+		"moment": "^2.29.2",
 		"ussd-menu-builder": "^1.0.0"
 	},
 	"devDependencies": {
